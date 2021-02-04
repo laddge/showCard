@@ -16,4 +16,4 @@ The elements have the following class.
 ![](https://user-images.githubusercontent.com/67098414/106967660-e7616680-678a-11eb-900a-7d7d01983e70.png)
 
 So you can apply style by css.  
-You can also use my css "showCard.css"
+You can also use my css "showCard.css".
